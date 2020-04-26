@@ -1,0 +1,632 @@
+0	08:28:42.084	Compiling 'FullFade_v2.6'
+0	08:28:42.084	Compiling 'MACD Sample'
+0	08:28:42.084	Compiling 'Moving Average'
+0	08:29:02.070	Compiling 'Accelerator'
+0	08:29:02.070	Compiling 'Accumulation'
+0	08:29:02.070	Compiling 'Alligator'
+0	08:29:02.070	Compiling 'ATR'
+0	08:29:02.070	Compiling 'Awesome'
+0	08:29:02.070	Compiling 'Bands'
+0	08:29:02.070	Compiling 'Bears'
+0	08:29:02.070	Compiling 'Bulls'
+0	08:29:02.070	Compiling 'CCI'
+0	08:29:02.070	Compiling 'Custom Moving Averages'
+0	08:29:02.070	Compiling 'Heiken Ashi'
+0	08:29:02.070	Compiling 'Ichimoku'
+0	08:29:02.070	Compiling 'iExposure'
+0	08:29:02.070	Compiling 'MACD'
+0	08:29:02.070	Compiling 'Momentum'
+0	08:29:02.071	Compiling 'OsMA'
+0	08:29:02.071	Compiling 'Parabolic'
+0	08:29:02.071	Compiling 'RSI'
+0	08:29:02.071	Compiling 'Stochastic'
+0	08:29:02.071	Compiling 'ZigZag'
+0	08:29:02.071	Compiling 'SimplePanel'
+0	08:29:09.381	Compiling 'PeriodConverter'
+0	08:29:09.382	Compiling 'DLLSampleTester'
+0	08:29:09.382	Compiling 'PipeClient'
+0	08:29:09.382	Compiling 'PipeClientPure'
+0	08:29:12.803	Compiling 'stdlib'
+0	08:29:37.096	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	08:29:37.107	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	08:29:37.118	Custom indicator User_Indicator USDJPY,M5: loaded successfully
+0	08:29:37.128	Custom indicator Stochastic USDJPY,M5: loaded successfully
+0	08:29:37.139	Expert Moving Average USDJPY,M5: loaded successfully
+0	08:29:37.139	Moving Average USDJPY,M5 inputs: Lots=0.1; MaximumRisk=0.02; DecreaseFactor=3.0; MovingPeriod=12; MovingShift=6; 
+0	08:29:37.154	Custom Moving Averages USDJPY,M5: initialized
+0	08:29:37.168	Custom Moving Averages USDJPY,M5: initialized
+0	08:29:37.183	User_Indicator USDJPY,M5: initialized
+0	08:29:37.197	Stochastic USDJPY,M5: initialized
+0	08:29:37.227	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	08:29:37.238	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	08:29:37.249	Custom indicator User_Indicator EURUSD,M15: loaded successfully
+0	08:29:37.260	Custom indicator Gambit EURUSD,M15: loaded successfully
+0	08:29:37.275	Custom Moving Averages EURUSD,M15: initialized
+0	08:29:37.289	Custom Moving Averages EURUSD,M15: initialized
+0	08:29:37.304	User_Indicator EURUSD,M15: initialized
+0	08:29:37.321	Gambit EURUSD,M15: initialized
+0	08:29:37.357	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	08:29:37.368	Custom indicator Custom Moving Averages EURUSD,M5: loaded successfully
+0	08:29:37.386	Gambit EURUSD,M5: initialized
+0	08:29:37.400	Custom Moving Averages EURUSD,M5: initialized
+0	08:29:37.450	Custom indicator Gambit GBPUSD,M5: loaded successfully
+0	08:29:37.461	Custom indicator Custom Moving Averages GBPUSD,M5: loaded successfully
+0	08:29:37.478	Gambit GBPUSD,M5: initialized
+0	08:29:37.492	Custom Moving Averages GBPUSD,M5: initialized
+0	08:29:41.944	Moving Average USDJPY,M5: initialized
+0	08:36:31.937	Custom Moving Averages USDJPY,M5: uninit reason 1
+0	08:36:31.939	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	08:36:33.760	Custom Moving Averages USDJPY,M5: uninit reason 1
+0	08:36:33.762	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	08:36:35.401	User_Indicator USDJPY,M5: uninit reason 1
+0	08:36:35.403	Custom indicator User_Indicator USDJPY,M5: removed
+0	08:36:37.272	Stochastic USDJPY,M5: uninit reason 1
+0	08:36:37.275	Custom indicator Stochastic USDJPY,M5: removed
+0	08:36:45.445	Custom indicator 1fractal USDJPY,M5: loaded successfully
+0	08:36:51.686	1fractal USDJPY,M5: initialized
+0	08:37:02.509	Custom indicator Gambit USDJPY,M5: loaded successfully
+0	08:37:04.599	Gambit USDJPY,M5: initialized
+0	08:37:14.877	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	08:37:34.981	Custom Moving Averages USDJPY,M5: initialized
+0	08:37:57.716	Moving Average USDJPY,M5: uninit reason 1
+0	08:37:57.719	Expert Moving Average USDJPY,M5: removed
+0	08:38:48.469	Custom indicator 1fractal ETHUSD,M5: loaded successfully
+0	08:38:48.481	Custom indicator Gambit ETHUSD,M5: loaded successfully
+0	08:38:48.492	Custom indicator Custom Moving Averages ETHUSD,M5: loaded successfully
+0	08:38:48.507	1fractal ETHUSD,M5: initialized
+0	08:38:48.522	Gambit ETHUSD,M5: initialized
+0	08:38:48.536	Custom Moving Averages ETHUSD,M5: initialized
+0	08:39:02.740	Script gamScript ETHUSD,M5: loaded successfully
+0	08:39:02.789	gamScript ETHUSD,M5: initialized
+0	08:39:02.790	gamScript ETHUSD,M5: uninit reason 0
+0	08:39:02.793	Script gamScript ETHUSD,M5: removed
+0	08:51:31.876	Expert gamExpert ETHUSD,M5: loaded successfully
+0	08:51:38.984	gamExpert ETHUSD,M5: initialized
+0	08:56:02.893	gamExpert ETHUSD,M5: uninit reason 2
+0	08:56:02.897	Expert gamExpert ETHUSD,M5: removed
+0	08:56:02.908	Expert gamExpert ETHUSD,M5: loaded successfully
+0	08:56:02.957	gamExpert ETHUSD,M5: initialized
+0	08:56:37.611	gamExpert ETHUSD,M5: uninit reason 2
+0	08:56:37.615	Expert gamExpert ETHUSD,M5: removed
+0	08:56:37.626	Expert gamExpert ETHUSD,M5: loaded successfully
+0	08:56:37.682	gamExpert ETHUSD,M5: initialized
+0	08:57:35.269	gamExpert ETHUSD,M5: uninit reason 2
+0	08:57:35.273	Expert gamExpert ETHUSD,M5: removed
+0	08:57:35.284	Expert gamExpert ETHUSD,M5: loaded successfully
+0	08:57:35.335	gamExpert ETHUSD,M5: initialized
+0	08:59:59.389	gamExpert ETHUSD,M5: uninit reason 2
+0	08:59:59.393	Expert gamExpert ETHUSD,M5: removed
+0	08:59:59.404	Expert gamExpert ETHUSD,M5: loaded successfully
+0	08:59:59.451	gamExpert ETHUSD,M5: initialized
+0	09:00:54.972	gamExpert ETHUSD,M5: uninit reason 1
+0	09:00:54.978	Expert gamExpert ETHUSD,M5: removed
+0	09:01:04.117	Expert gamExpert ETHUSD,M5: loaded successfully
+0	09:01:05.457	gamExpert ETHUSD,M5: initialized
+0	09:02:03.213	gamExpert ETHUSD,M5: uninit reason 2
+0	09:02:03.217	Expert gamExpert ETHUSD,M5: removed
+0	09:02:03.228	Expert gamExpert ETHUSD,M5: loaded successfully
+0	09:02:03.277	gamExpert ETHUSD,M5: initialized
+0	09:11:41.580	gamExpert ETHUSD,M5: uninit reason 1
+0	09:11:41.585	Expert gamExpert ETHUSD,M5: removed
+0	09:11:41.596	Expert gamExpert ETHUSD,M5: loaded successfully
+3	09:11:43.352	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+3	09:11:43.352	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+0	09:11:43.352	gamExpert ETHUSD,M5: initialized
+0	09:13:03.640	Compiling 'Gambit'
+0	09:13:14.364	gamExpert ETHUSD,M5: uninit reason 1
+0	09:13:14.367	Expert gamExpert ETHUSD,M5: removed
+0	09:13:14.378	Expert five5 ETHUSD,M5: loaded successfully
+0	09:13:15.661	five5 ETHUSD,M5: initialized
+0	09:14:00.246	five5 ETHUSD,M5: uninit reason 2
+0	09:14:00.248	Expert five5 ETHUSD,M5: removed
+0	09:14:00.259	Expert five5 ETHUSD,M5: loaded successfully
+0	09:14:00.273	five5 ETHUSD,M5: initialized
+0	09:14:08.404	five5 ETHUSD,M5: uninit reason 1
+0	09:14:08.408	Expert five5 ETHUSD,M5: removed
+0	09:14:08.419	Expert gamExpert ETHUSD,M5: loaded successfully
+3	09:14:09.752	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+3	09:14:09.752	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+0	09:14:09.752	gamExpert ETHUSD,M5: initialized
+0	09:14:58.676	gamExpert ETHUSD,M5: uninit reason 1
+0	09:14:58.680	Expert gamExpert ETHUSD,M5: removed
+0	09:14:58.691	Expert five5 ETHUSD,M5: loaded successfully
+0	09:14:59.951	five5 ETHUSD,M5: initialized
+0	09:15:55.101	five5 ETHUSD,M5: uninit reason 2
+0	09:15:55.103	Expert five5 ETHUSD,M5: removed
+0	09:15:55.114	Expert five5 ETHUSD,M5: loaded successfully
+0	09:15:55.129	five5 ETHUSD,M5: initialized
+0	09:16:00.644	five5 ETHUSD,M5: uninit reason 1
+0	09:16:00.648	Expert five5 ETHUSD,M5: removed
+0	09:16:00.658	Expert five5 ETHUSD,M5: loaded successfully
+0	09:16:02.084	five5 ETHUSD,M5: initialized
+0	09:17:21.840	five5 ETHUSD,M5: uninit reason 2
+0	09:17:21.842	Expert five5 ETHUSD,M5: removed
+0	09:17:21.852	Expert five5 ETHUSD,M5: loaded successfully
+3	09:17:21.876	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+3	09:17:21.876	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+0	09:17:21.876	five5 ETHUSD,M5: initialized
+0	09:19:33.634	five5 ETHUSD,M5: uninit reason 2
+0	09:19:33.636	Expert five5 ETHUSD,M5: removed
+0	09:19:33.647	Expert five5 ETHUSD,M5: loaded successfully
+3	09:19:33.664	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+3	09:19:33.664	cannot open file 'C:\Users\Ü\AppData\Roaming\MetaQuotes\Terminal\CE014884047B38E535332C971089AB90\MQL4\indicators\Gambit.ex4' [2]
+0	09:19:33.664	five5 ETHUSD,M5: initialized
+0	09:20:05.242	Automated trading disabled
+3	09:20:05.763	five5 ETHUSD,M5: trade operations not allowed by settings
+0	09:29:04.569	Gambit ETHUSD,M5: uninit reason 2
+0	09:29:04.571	Custom indicator Gambit ETHUSD,M5: removed
+0	09:29:04.583	Custom indicator Gambit ETHUSD,M5: loaded successfully
+0	09:29:04.598	Gambit ETHUSD,M5: initialized
+0	09:29:04.603	Gambit USDJPY,M5: uninit reason 2
+0	09:29:04.605	Custom indicator Gambit USDJPY,M5: removed
+0	09:29:04.617	Custom indicator Gambit USDJPY,M5: loaded successfully
+0	09:29:04.631	Gambit USDJPY,M5: initialized
+0	09:29:04.651	Gambit GBPUSD,M5: uninit reason 2
+0	09:29:04.653	Custom indicator Gambit GBPUSD,M5: removed
+0	09:29:04.664	Custom indicator Gambit GBPUSD,M5: loaded successfully
+0	09:29:04.680	Gambit GBPUSD,M5: initialized
+0	09:29:04.699	Gambit EURUSD,M5: uninit reason 2
+0	09:29:04.701	Custom indicator Gambit EURUSD,M5: removed
+0	09:29:04.712	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	09:29:04.727	Gambit EURUSD,M5: initialized
+0	09:29:04.748	Gambit EURUSD,M15: uninit reason 2
+0	09:29:04.750	Custom indicator Gambit EURUSD,M15: removed
+0	09:29:04.762	Custom indicator Gambit EURUSD,M15: loaded successfully
+0	09:29:04.776	Gambit EURUSD,M15: initialized
+0	09:29:24.867	Automated trading enabled
+0	09:32:37.307	five5 ETHUSD,M5: uninit reason 2
+0	09:32:37.310	Expert five5 ETHUSD,M5: removed
+0	09:32:37.321	Expert five5 ETHUSD,M5: loaded successfully
+0	09:32:37.370	five5 ETHUSD,M5: initialized
+0	09:35:20.918	five5 ETHUSD,M5: uninit reason 2
+0	09:35:20.922	Expert five5 ETHUSD,M5: removed
+0	09:35:20.933	Expert five5 ETHUSD,M5: loaded successfully
+0	09:35:20.982	five5 ETHUSD,M5: initialized
+0	09:36:11.573	five5 ETHUSD,M5: uninit reason 1
+0	09:36:11.578	Expert five5 ETHUSD,M5: removed
+0	09:36:24.610	1fractal ETHUSD,M5: uninit reason 3
+0	09:36:24.610	Gambit ETHUSD,M5: uninit reason 3
+0	09:36:24.610	Custom Moving Averages ETHUSD,M5: uninit reason 3
+0	09:36:24.610	1fractal LTCUSD,M5: initialized
+0	09:36:24.610	Gambit LTCUSD,M5: initialized
+0	09:36:24.610	Custom Moving Averages LTCUSD,M5: initialized
+0	09:36:32.114	1fractal LTCUSD,M5: uninit reason 3
+0	09:36:32.114	Gambit LTCUSD,M5: uninit reason 3
+0	09:36:32.114	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	09:36:32.114	1fractal LTCUSD,H1: initialized
+0	09:36:32.114	Gambit LTCUSD,H1: initialized
+0	09:36:32.114	Custom Moving Averages LTCUSD,H1: initialized
+0	09:36:58.885	Expert five5 LTCUSD,H1: loaded successfully
+0	09:37:00.485	five5 LTCUSD,H1: initialized
+2	09:37:01.455	five5 LTCUSD,H1: open #74500387 sell 1.00 LTCUSD at 44.46000 sl: 44.56000 tp: 44.03675 ok
+2	09:37:02.464	five5 LTCUSD,H1: open #74500388 buy 1.00 LTCUSD at 44.54000 sl: 44.24000 tp: 44.94825 ok
+2	09:37:02.662	five5 LTCUSD,H1: open #74500389 buy 1.00 LTCUSD at 44.54000 sl: 44.24000 tp: 44.94825 ok
+2	09:37:03.466	five5 LTCUSD,H1: open #74500390 buy 1.00 LTCUSD at 44.54000 sl: 44.24000 tp: 44.94825 ok
+2	09:37:03.665	five5 LTCUSD,H1: open #74500391 buy 1.00 LTCUSD at 44.54000 sl: 44.24000 tp: 44.94825 ok
+2	09:37:04.469	five5 LTCUSD,H1: open #74500392 sell 1.00 LTCUSD at 44.47000 sl: 44.58000 tp: 44.01675 ok
+2	09:37:05.480	five5 LTCUSD,H1: open #74500393 buy 1.00 LTCUSD at 44.54000 sl: 44.22000 tp: 44.96825 ok
+2	09:37:06.480	five5 LTCUSD,H1: open #74500394 buy 1.00 LTCUSD at 44.54000 sl: 44.22000 tp: 44.96825 ok
+2	09:37:07.482	five5 LTCUSD,H1: open #74500395 buy 1.00 LTCUSD at 44.54000 sl: 44.22000 tp: 44.96825 ok
+2	09:37:08.492	five5 LTCUSD,H1: open #74500396 buy 1.00 LTCUSD at 44.54000 sl: 44.22000 tp: 44.96825 ok
+2	09:37:09.495	five5 LTCUSD,H1: open #74500397 sell 1.00 LTCUSD at 44.47000 sl: 44.58000 tp: 44.01675 ok
+0	09:37:10.027	Automated trading disabled
+2	09:37:10.496	five5 LTCUSD,H1: open #74500398 buy 1.00 LTCUSD at 44.54000 sl: 44.22000 tp: 44.96825 ok
+3	09:37:10.496	five5 LTCUSD,H1: trade operations not allowed by settings
+0	09:41:42.857	five5 LTCUSD,H1: uninit reason 2
+0	09:41:42.861	Expert five5 LTCUSD,H1: removed
+0	09:41:42.872	Expert five5 LTCUSD,H1: loaded successfully
+0	09:41:42.921	five5 LTCUSD,H1: initialized
+3	09:41:42.921	five5 LTCUSD,H1: trade operations not allowed by settings
+0	09:45:33.229	five5 LTCUSD,H1: uninit reason 2
+0	09:45:33.233	Expert five5 LTCUSD,H1: removed
+0	09:45:33.244	Expert five5 LTCUSD,H1: loaded successfully
+0	09:45:33.298	five5 LTCUSD,H1: initialized
+3	09:45:33.888	five5 LTCUSD,H1: trade operations not allowed by settings
+0	09:46:53.547	Automated trading enabled
+0	09:48:07.685	five5 LTCUSD,H1: uninit reason 1
+0	09:48:07.690	Expert five5 LTCUSD,H1: removed
+0	09:48:11.805	Expert gamExpert LTCUSD,H1: loaded successfully
+0	09:48:15.631	gamExpert LTCUSD,H1: initialized
+0	09:56:48.683	gamExpert LTCUSD,H1: uninit reason 3
+0	09:56:48.684	1fractal LTCUSD,H1: uninit reason 3
+0	09:56:48.684	Gambit LTCUSD,H1: uninit reason 3
+0	09:56:48.684	Custom Moving Averages LTCUSD,H1: uninit reason 3
+0	09:56:49.555	1fractal LTCUSD,M5: initialized
+0	09:56:49.555	Gambit LTCUSD,M5: initialized
+0	09:56:49.555	Custom Moving Averages LTCUSD,M5: initialized
+0	09:56:49.616	gamExpert LTCUSD,M5: initialized
+0	09:57:42.061	gamExpert LTCUSD,M5: uninit reason 1
+0	09:57:42.067	Expert gamExpert LTCUSD,M5: removed
+0	09:57:46.403	Expert gamExpert LTCUSD,M5: loaded successfully
+0	09:57:48.094	gamExpert LTCUSD,M5: initialized
+0	09:58:59.475	gamExpert LTCUSD,M5: uninit reason 3
+0	09:58:59.477	1fractal LTCUSD,M5: uninit reason 3
+0	09:58:59.477	Gambit LTCUSD,M5: uninit reason 3
+0	09:58:59.477	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	09:58:59.477	1fractal LTCUSD,H1: initialized
+0	09:58:59.477	Gambit LTCUSD,H1: initialized
+0	09:58:59.477	Custom Moving Averages LTCUSD,H1: initialized
+0	09:58:59.539	gamExpert LTCUSD,H1: initialized
+0	09:59:03.083	gamExpert LTCUSD,H1: uninit reason 3
+0	09:59:03.085	1fractal LTCUSD,H1: uninit reason 3
+0	09:59:03.085	Gambit LTCUSD,H1: uninit reason 3
+0	09:59:03.085	Custom Moving Averages LTCUSD,H1: uninit reason 3
+0	09:59:03.085	1fractal LTCUSD,M5: initialized
+0	09:59:03.085	Gambit LTCUSD,M5: initialized
+0	09:59:03.085	Custom Moving Averages LTCUSD,M5: initialized
+0	09:59:03.090	gamExpert LTCUSD,M5: initialized
+0	09:59:10.515	gamExpert LTCUSD,M5: uninit reason 3
+0	09:59:10.517	1fractal LTCUSD,M5: uninit reason 3
+0	09:59:10.517	Gambit LTCUSD,M5: uninit reason 3
+0	09:59:10.517	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	09:59:10.582	1fractal LTCUSD,M15: initialized
+0	09:59:10.582	Gambit LTCUSD,M15: initialized
+0	09:59:10.582	Custom Moving Averages LTCUSD,M15: initialized
+0	09:59:10.729	gamExpert LTCUSD,M15: initialized
+0	09:59:15.332	gamExpert LTCUSD,M15: uninit reason 3
+0	09:59:15.334	1fractal LTCUSD,M15: uninit reason 3
+0	09:59:15.334	Gambit LTCUSD,M15: uninit reason 3
+0	09:59:15.334	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	09:59:15.334	1fractal LTCUSD,M1: initialized
+0	09:59:15.334	Gambit LTCUSD,M1: initialized
+0	09:59:15.334	Custom Moving Averages LTCUSD,M1: initialized
+0	09:59:15.844	gamExpert LTCUSD,M1: initialized
+0	09:59:19.867	gamExpert LTCUSD,M1: uninit reason 3
+0	09:59:19.868	1fractal LTCUSD,M1: uninit reason 3
+0	09:59:19.868	Gambit LTCUSD,M1: uninit reason 3
+0	09:59:19.868	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	09:59:19.868	1fractal LTCUSD,M5: initialized
+0	09:59:19.868	Gambit LTCUSD,M5: initialized
+0	09:59:19.868	Custom Moving Averages LTCUSD,M5: initialized
+0	09:59:19.874	gamExpert LTCUSD,M5: initialized
+0	09:59:21.195	gamExpert LTCUSD,M5: uninit reason 3
+0	09:59:21.196	1fractal LTCUSD,M5: uninit reason 3
+0	09:59:21.196	Gambit LTCUSD,M5: uninit reason 3
+0	09:59:21.196	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	09:59:21.196	1fractal LTCUSD,M15: initialized
+0	09:59:21.196	Gambit LTCUSD,M15: initialized
+0	09:59:21.196	Custom Moving Averages LTCUSD,M15: initialized
+0	09:59:21.202	gamExpert LTCUSD,M15: initialized
+0	09:59:23.195	gamExpert LTCUSD,M15: uninit reason 3
+0	09:59:23.196	1fractal LTCUSD,M15: uninit reason 3
+0	09:59:23.196	Gambit LTCUSD,M15: uninit reason 3
+0	09:59:23.196	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	09:59:23.196	1fractal LTCUSD,M30: initialized
+0	09:59:23.196	Gambit LTCUSD,M30: initialized
+0	09:59:23.196	Custom Moving Averages LTCUSD,M30: initialized
+0	09:59:23.977	gamExpert LTCUSD,M30: initialized
+0	10:04:50.963	gamExpert LTCUSD,M30: uninit reason 3
+0	10:04:50.965	1fractal LTCUSD,M30: uninit reason 3
+0	10:04:50.965	Gambit LTCUSD,M30: uninit reason 3
+0	10:04:50.965	Custom Moving Averages LTCUSD,M30: uninit reason 3
+0	10:04:50.965	1fractal LTCUSD,M5: initialized
+0	10:04:50.965	Gambit LTCUSD,M5: initialized
+0	10:04:50.965	Custom Moving Averages LTCUSD,M5: initialized
+0	10:04:51.028	gamExpert LTCUSD,M5: initialized
+0	10:04:54.387	gamExpert LTCUSD,M5: uninit reason 3
+0	10:04:54.389	1fractal LTCUSD,M5: uninit reason 3
+0	10:04:54.389	Gambit LTCUSD,M5: uninit reason 3
+0	10:04:54.389	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	10:04:54.389	1fractal LTCUSD,M1: initialized
+0	10:04:54.389	Gambit LTCUSD,M1: initialized
+0	10:04:54.389	Custom Moving Averages LTCUSD,M1: initialized
+0	10:04:54.454	gamExpert LTCUSD,M1: initialized
+0	10:04:56.371	gamExpert LTCUSD,M1: uninit reason 3
+0	10:04:56.373	1fractal LTCUSD,M1: uninit reason 3
+0	10:04:56.373	Gambit LTCUSD,M1: uninit reason 3
+0	10:04:56.373	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	10:04:56.373	1fractal LTCUSD,M5: initialized
+0	10:04:56.373	Gambit LTCUSD,M5: initialized
+0	10:04:56.373	Custom Moving Averages LTCUSD,M5: initialized
+0	10:04:56.379	gamExpert LTCUSD,M5: initialized
+0	10:04:57.507	gamExpert LTCUSD,M5: uninit reason 3
+0	10:04:57.509	1fractal LTCUSD,M5: uninit reason 3
+0	10:04:57.509	Gambit LTCUSD,M5: uninit reason 3
+0	10:04:57.509	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	10:04:57.509	1fractal LTCUSD,M15: initialized
+0	10:04:57.509	Gambit LTCUSD,M15: initialized
+0	10:04:57.509	Custom Moving Averages LTCUSD,M15: initialized
+0	10:04:57.570	gamExpert LTCUSD,M15: initialized
+0	10:04:58.332	gamExpert LTCUSD,M15: uninit reason 3
+0	10:04:58.334	1fractal LTCUSD,M15: uninit reason 3
+0	10:04:58.334	Gambit LTCUSD,M15: uninit reason 3
+0	10:04:58.334	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	10:04:58.334	1fractal LTCUSD,M30: initialized
+0	10:04:58.334	Gambit LTCUSD,M30: initialized
+0	10:04:58.334	Custom Moving Averages LTCUSD,M30: initialized
+0	10:04:58.339	gamExpert LTCUSD,M30: initialized
+0	10:05:04.787	gamExpert LTCUSD,M30: uninit reason 3
+0	10:05:04.789	1fractal LTCUSD,M30: uninit reason 3
+0	10:05:04.789	Gambit LTCUSD,M30: uninit reason 3
+0	10:05:04.789	Custom Moving Averages LTCUSD,M30: uninit reason 3
+0	10:05:04.789	1fractal LTCUSD,H1: initialized
+0	10:05:04.789	Gambit LTCUSD,H1: initialized
+0	10:05:04.789	Custom Moving Averages LTCUSD,H1: initialized
+0	10:05:04.855	gamExpert LTCUSD,H1: initialized
+0	10:05:07.595	gamExpert LTCUSD,H1: uninit reason 3
+0	10:05:07.597	1fractal LTCUSD,H1: uninit reason 3
+0	10:05:07.597	Gambit LTCUSD,H1: uninit reason 3
+0	10:05:07.597	Custom Moving Averages LTCUSD,H1: uninit reason 3
+0	10:05:07.597	1fractal LTCUSD,H4: initialized
+0	10:05:07.597	Gambit LTCUSD,H4: initialized
+0	10:05:07.597	Custom Moving Averages LTCUSD,H4: initialized
+0	10:05:07.985	gamExpert LTCUSD,H4: initialized
+0	10:11:22.422	gamExpert LTCUSD,H4: uninit reason 1
+0	10:11:22.426	Expert gamExpert LTCUSD,H4: removed
+0	10:11:25.846	Expert gamExpert LTCUSD,H4: loaded successfully
+0	10:11:27.369	gamExpert LTCUSD,H4: initialized
+0	10:12:33.014	gamExpert LTCUSD,H4: uninit reason 1
+0	10:12:33.020	Expert gamExpert LTCUSD,H4: removed
+0	10:12:35.710	Expert gamExpert LTCUSD,H4: loaded successfully
+0	10:12:37.154	gamExpert LTCUSD,H4: initialized
+0	10:13:06.726	gamExpert LTCUSD,H4: uninit reason 1
+0	10:13:06.732	Expert gamExpert LTCUSD,H4: removed
+0	10:13:09.302	Expert gamExpert LTCUSD,H4: loaded successfully
+0	10:13:10.723	gamExpert LTCUSD,H4: initialized
+0	10:13:45.587	gamExpert LTCUSD,H4: uninit reason 3
+0	10:13:45.589	1fractal LTCUSD,H4: uninit reason 3
+0	10:13:45.589	Gambit LTCUSD,H4: uninit reason 3
+0	10:13:45.589	Custom Moving Averages LTCUSD,H4: uninit reason 3
+0	10:13:45.645	1fractal LTCUSD,M1: initialized
+0	10:13:45.645	Gambit LTCUSD,M1: initialized
+0	10:13:45.645	Custom Moving Averages LTCUSD,M1: initialized
+0	10:13:45.705	gamExpert LTCUSD,M1: initialized
+0	10:16:32.718	gamExpert LTCUSD,M1: uninit reason 1
+0	10:16:32.724	Expert gamExpert LTCUSD,M1: removed
+0	10:16:35.646	Expert five5 LTCUSD,M1: loaded successfully
+0	10:16:37.326	five5 LTCUSD,M1: initialized
+0	10:16:45.723	five5 LTCUSD,M1: uninit reason 2
+0	10:16:45.730	Expert five5 LTCUSD,M1: removed
+0	10:16:45.742	Expert five5 LTCUSD,M1: loaded successfully
+0	10:16:45.792	five5 LTCUSD,M1: initialized
+0	10:16:55.019	five5 LTCUSD,M1: uninit reason 3
+0	10:16:55.021	1fractal LTCUSD,M1: uninit reason 3
+0	10:16:55.021	Gambit LTCUSD,M1: uninit reason 3
+0	10:16:55.021	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	10:16:55.076	1fractal LTCUSD,M5: initialized
+0	10:16:55.076	Gambit LTCUSD,M5: initialized
+0	10:16:55.076	Custom Moving Averages LTCUSD,M5: initialized
+0	10:16:55.138	five5 LTCUSD,M5: initialized
+2	10:17:00.596	five5 LTCUSD,M5: open #74500434 buy 1.00 LTCUSD at 44.73000 sl: 44.55000 tp: 44.89310 ok
+2	10:17:01.598	five5 LTCUSD,M5: open #74500435 buy 1.00 LTCUSD at 44.73000 sl: 44.56000 tp: 44.88310 ok
+2	10:17:01.797	five5 LTCUSD,M5: open #74500436 buy 1.00 LTCUSD at 44.73000 sl: 44.57000 tp: 44.87310 ok
+2	10:17:02.603	five5 LTCUSD,M5: open #74500437 buy 1.00 LTCUSD at 44.74000 sl: 44.56000 tp: 44.88310 ok
+2	10:17:03.605	five5 LTCUSD,M5: open #74500438 buy 1.00 LTCUSD at 44.77000 sl: 44.55000 tp: 44.89310 ok
+2	10:17:04.610	five5 LTCUSD,M5: open #74500439 buy 1.00 LTCUSD at 44.77000 sl: 44.55000 tp: 44.89310 ok
+2	10:17:05.615	five5 LTCUSD,M5: open #74500440 buy 1.00 LTCUSD at 44.77000 sl: 44.55000 tp: 44.89310 ok
+2	10:17:06.619	five5 LTCUSD,M5: open #74500441 buy 1.00 LTCUSD at 44.77000 sl: 44.54000 tp: 44.90310 ok
+2	10:17:07.629	five5 LTCUSD,M5: open #74500442 buy 1.00 LTCUSD at 44.77000 sl: 44.55000 tp: 44.89310 ok
+2	10:17:08.631	five5 LTCUSD,M5: open #74500443 buy 1.00 LTCUSD at 44.77000 sl: 44.56000 tp: 44.88310 ok
+2	10:17:11.642	five5 LTCUSD,M5: open #74500444 buy 1.00 LTCUSD at 44.81000 sl: 44.52000 tp: 44.92310 ok
+2	10:17:12.242	five5 LTCUSD,M5: open #74500445 buy 1.00 LTCUSD at 44.80000 sl: 44.53000 tp: 44.91310 ok
+2	10:17:12.840	five5 LTCUSD,M5: open #74500446 buy 1.00 LTCUSD at 44.80000 sl: 44.54000 tp: 44.90310 ok
+2	10:17:13.646	five5 LTCUSD,M5: open #74500447 buy 1.00 LTCUSD at 44.80000 sl: 44.54000 tp: 44.90310 ok
+2	10:17:14.247	five5 LTCUSD,M5: open #74500448 buy 1.00 LTCUSD at 44.79000 sl: 44.55000 tp: 44.89310 ok
+0	10:17:15.687	Automated trading disabled
+2	10:17:15.687	five5 LTCUSD,M5: open #74500449 buy 1.00 LTCUSD at 44.79000 sl: 44.54000 tp: 44.90310 ok
+3	10:17:15.687	five5 LTCUSD,M5: trade operations not allowed by settings
+0	10:18:39.221	five5 LTCUSD,M5: uninit reason 2
+0	10:18:39.225	Expert five5 LTCUSD,M5: removed
+0	10:18:39.237	Expert five5 LTCUSD,M5: loaded successfully
+0	10:18:39.297	five5 LTCUSD,M5: initialized
+0	10:19:18.608	Automated trading enabled
+0	10:19:24.315	five5 LTCUSD,M5: uninit reason 3
+0	10:19:24.317	1fractal LTCUSD,M5: uninit reason 3
+0	10:19:24.317	Gambit LTCUSD,M5: uninit reason 3
+0	10:19:24.317	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	10:19:24.417	1fractal LTCUSD,M1: initialized
+0	10:19:24.417	Gambit LTCUSD,M1: initialized
+0	10:19:24.417	Custom Moving Averages LTCUSD,M1: initialized
+0	10:19:24.478	five5 LTCUSD,M1: initialized
+0	10:19:26.828	five5 LTCUSD,M1: uninit reason 3
+0	10:19:26.829	1fractal LTCUSD,M1: uninit reason 3
+0	10:19:26.829	Gambit LTCUSD,M1: uninit reason 3
+0	10:19:26.829	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	10:19:26.897	1fractal LTCUSD,M15: initialized
+0	10:19:26.897	Gambit LTCUSD,M15: initialized
+0	10:19:26.897	Custom Moving Averages LTCUSD,M15: initialized
+0	10:19:26.963	five5 LTCUSD,M15: initialized
+2	10:23:16.817	five5 LTCUSD,M15: open #74500460 sell 1.00 LTCUSD at 44.70000 sl: 44.83000 tp: 44.14517 ok
+2	10:24:02.718	five5 LTCUSD,M15: open #74500461 sell 1.00 LTCUSD at 44.53000 sl: 45.14000 tp: 43.83517 ok
+2	10:24:03.722	five5 LTCUSD,M15: open #74500462 sell 1.00 LTCUSD at 44.64000 sl: 44.95000 tp: 44.02517 ok
+2	10:24:03.926	five5 LTCUSD,M15: open #74500463 sell 1.00 LTCUSD at 44.66000 sl: 44.85000 tp: 44.12517 ok
+2	10:24:04.125	five5 LTCUSD,M15: open #74500464 sell 1.00 LTCUSD at 44.68000 sl: 44.79000 tp: 44.18517 ok
+2	10:24:04.724	five5 LTCUSD,M15: open #74500465 sell 1.00 LTCUSD at 44.69000 sl: 44.77000 tp: 44.20517 ok
+2	10:24:07.737	five5 LTCUSD,M15: open #74500466 sell 1.00 LTCUSD at 44.69000 sl: 44.75000 tp: 44.22517 ok
+0	10:24:19.516	Automated trading disabled
+3	10:24:19.532	five5 LTCUSD,M15: trade operations not allowed by settings
+0	10:27:48.979	five5 LTCUSD,M15: uninit reason 2
+0	10:27:48.981	Expert five5 LTCUSD,M15: removed
+0	10:27:49.012	Expert five5 LTCUSD,M15: loaded successfully
+0	10:27:49.081	five5 LTCUSD,M15: initialized
+0	10:28:08.260	Automated trading enabled
+0	10:30:45.227	five5 LTCUSD,M15: uninit reason 3
+0	10:30:45.229	1fractal LTCUSD,M15: uninit reason 3
+0	10:30:45.229	Gambit LTCUSD,M15: uninit reason 3
+0	10:30:45.229	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	10:30:45.229	1fractal LTCUSD,M1: initialized
+0	10:30:45.229	Gambit LTCUSD,M1: initialized
+0	10:30:45.229	Custom Moving Averages LTCUSD,M1: initialized
+0	10:30:45.295	five5 LTCUSD,M1: initialized
+0	10:35:18.624	1fractal LTCUSD,M1: uninit reason 2
+0	10:35:18.626	Custom indicator 1fractal LTCUSD,M1: removed
+0	10:35:18.638	Custom indicator 1fractal LTCUSD,M1: loaded successfully
+0	10:35:18.653	1fractal LTCUSD,M1: initialized
+0	10:35:18.653	1fractal USDJPY,M5: uninit reason 2
+0	10:35:18.655	Custom indicator 1fractal USDJPY,M5: removed
+0	10:35:18.666	Custom indicator 1fractal USDJPY,M5: loaded successfully
+0	10:35:18.681	1fractal USDJPY,M5: initialized
+0	10:35:30.923	1fractal LTCUSD,M1: uninit reason 1
+0	10:35:30.925	Custom indicator 1fractal LTCUSD,M1: removed
+0	10:35:50.574	Custom indicator 1fractal LTCUSD,M1: loaded successfully
+0	10:35:52.418	1fractal LTCUSD,M1: initialized
+0	10:36:17.326	five5 LTCUSD,M1: uninit reason 1
+0	10:36:17.330	Expert five5 LTCUSD,M1: removed
+0	10:42:48.901	Expert five5 LTCUSD,M1: loaded successfully
+0	10:42:50.164	five5 LTCUSD,M1: initialized
+2	10:42:51.667	five5 LTCUSD,M1: open #74500492 buy 1.00 LTCUSD at 44.84000 sl: 44.57000 tp: 44.86022 ok
+0	10:47:57.643	five5 LTCUSD,M1: uninit reason 2
+0	10:47:57.647	Expert five5 LTCUSD,M1: removed
+0	10:47:57.658	Expert five5 LTCUSD,M1: loaded successfully
+0	10:47:57.707	five5 LTCUSD,M1: initialized
+0	10:59:16.803	1fractal LTCUSD,M1: uninit reason 1
+0	10:59:16.805	Custom indicator 1fractal LTCUSD,M1: removed
+0	10:59:24.632	Custom indicator 1fractal LTCUSD,M1: loaded successfully
+0	10:59:26.128	1fractal LTCUSD,M1: initialized
+0	11:00:50.640	Custom indicator Custom Moving Averages LTCUSD,M1: loaded successfully
+0	11:01:10.262	Custom Moving Averages LTCUSD,M1: initialized
+0	11:06:05.387	five5 LTCUSD,M1: uninit reason 2
+0	11:06:05.392	Expert five5 LTCUSD,M1: removed
+0	11:06:05.403	Expert five5 LTCUSD,M1: loaded successfully
+0	11:06:05.453	five5 LTCUSD,M1: initialized
+0	11:06:24.438	five5 LTCUSD,M1: uninit reason 1
+0	11:06:24.443	Expert five5 LTCUSD,M1: removed
+0	11:06:24.454	Expert five5 LTCUSD,M1: loaded successfully
+0	11:06:25.989	five5 LTCUSD,M1: initialized
+2	11:09:01.287	five5 LTCUSD,M1: open #74500518 sell 1.00 LTCUSD at 44.89000 sl: 44.99000 tp: 44.61294 ok
+0	11:09:35.484	five5 LTCUSD,M1: uninit reason 3
+0	11:09:35.486	Gambit LTCUSD,M1: uninit reason 3
+0	11:09:35.486	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:09:35.486	1fractal LTCUSD,M1: uninit reason 3
+0	11:09:35.486	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:09:35.538	Gambit LTCUSD,M5: initialized
+0	11:09:35.538	Custom Moving Averages LTCUSD,M5: initialized
+0	11:09:35.538	1fractal LTCUSD,M5: initialized
+0	11:09:35.538	Custom Moving Averages LTCUSD,M5: initialized
+0	11:09:36.641	five5 LTCUSD,M5: initialized
+0	11:09:49.580	five5 LTCUSD,M5: uninit reason 3
+0	11:09:49.582	Gambit LTCUSD,M5: uninit reason 3
+0	11:09:49.582	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	11:09:49.582	1fractal LTCUSD,M5: uninit reason 3
+0	11:09:49.582	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	11:09:49.582	Gambit LTCUSD,M1: initialized
+0	11:09:49.582	Custom Moving Averages LTCUSD,M1: initialized
+0	11:09:49.582	1fractal LTCUSD,M1: initialized
+0	11:09:49.582	Custom Moving Averages LTCUSD,M1: initialized
+0	11:09:49.588	five5 LTCUSD,M1: initialized
+0	11:10:19.828	five5 LTCUSD,M1: uninit reason 3
+0	11:10:19.830	Gambit LTCUSD,M1: uninit reason 3
+0	11:10:19.830	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:10:19.830	1fractal LTCUSD,M1: uninit reason 3
+0	11:10:19.830	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:10:19.830	Gambit LTCUSD,M5: initialized
+0	11:10:19.830	Custom Moving Averages LTCUSD,M5: initialized
+0	11:10:19.830	1fractal LTCUSD,M5: initialized
+0	11:10:19.830	Custom Moving Averages LTCUSD,M5: initialized
+0	11:10:19.836	five5 LTCUSD,M5: initialized
+0	11:10:21.396	five5 LTCUSD,M5: uninit reason 3
+0	11:10:21.398	Gambit LTCUSD,M5: uninit reason 3
+0	11:10:21.398	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	11:10:21.398	1fractal LTCUSD,M5: uninit reason 3
+0	11:10:21.398	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	11:10:21.456	Gambit LTCUSD,M15: initialized
+0	11:10:21.456	Custom Moving Averages LTCUSD,M15: initialized
+0	11:10:21.456	1fractal LTCUSD,M15: initialized
+0	11:10:21.456	Custom Moving Averages LTCUSD,M15: initialized
+0	11:10:21.518	five5 LTCUSD,M15: initialized
+0	11:10:22.956	five5 LTCUSD,M15: uninit reason 3
+0	11:10:22.958	Gambit LTCUSD,M15: uninit reason 3
+0	11:10:22.958	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	11:10:22.958	1fractal LTCUSD,M15: uninit reason 3
+0	11:10:22.958	Custom Moving Averages LTCUSD,M15: uninit reason 3
+0	11:10:23.021	Gambit LTCUSD,M30: initialized
+0	11:10:23.021	Custom Moving Averages LTCUSD,M30: initialized
+0	11:10:23.021	1fractal LTCUSD,M30: initialized
+0	11:10:23.021	Custom Moving Averages LTCUSD,M30: initialized
+0	11:10:23.087	five5 LTCUSD,M30: initialized
+0	11:10:24.980	five5 LTCUSD,M30: uninit reason 3
+0	11:10:24.982	Gambit LTCUSD,M30: uninit reason 3
+0	11:10:24.982	Custom Moving Averages LTCUSD,M30: uninit reason 3
+0	11:10:24.982	1fractal LTCUSD,M30: uninit reason 3
+0	11:10:24.982	Custom Moving Averages LTCUSD,M30: uninit reason 3
+0	11:10:24.982	Gambit LTCUSD,M1: initialized
+0	11:10:24.982	Custom Moving Averages LTCUSD,M1: initialized
+0	11:10:24.982	1fractal LTCUSD,M1: initialized
+0	11:10:24.982	Custom Moving Averages LTCUSD,M1: initialized
+0	11:10:24.988	five5 LTCUSD,M1: initialized
+2	11:11:01.136	five5 LTCUSD,M1: open #74500525 sell 1.00 LTCUSD at 44.99000 sl: 45.07000 tp: 44.62294 ok
+2	11:12:01.876	five5 LTCUSD,M1: open #74500528 sell 1.00 LTCUSD at 44.99000 sl: 45.07000 tp: 44.61294 ok
+0	11:14:42.108	five5 LTCUSD,M1: uninit reason 2
+0	11:14:42.114	Expert five5 LTCUSD,M1: removed
+0	11:14:42.144	Expert five5 LTCUSD,M1: loaded successfully
+0	11:14:42.195	five5 LTCUSD,M1: initialized
+2	11:16:01.583	five5 LTCUSD,M1: open #74500534 sell 1.00 LTCUSD at 45.01000 sl: 45.30000 tp: 44.53466 ok
+0	11:20:57.859	five5 LTCUSD,M1: uninit reason 2
+0	11:20:57.863	Expert five5 LTCUSD,M1: removed
+0	11:20:57.875	Expert five5 LTCUSD,M1: loaded successfully
+0	11:20:57.929	five5 LTCUSD,M1: initialized
+2	11:33:29.756	five5 LTCUSD,M1: open #74500544 buy 1.00 LTCUSD at 45.12000 sl: 44.93000 tp: 45.32630 ok
+2	11:34:02.056	five5 LTCUSD,M1: open #74500545 buy 1.00 LTCUSD at 45.08000 sl: 44.94000 tp: 45.33630 ok
+2	11:35:02.755	five5 LTCUSD,M1: open #74500546 buy 1.00 LTCUSD at 45.08000 sl: 44.91000 tp: 45.32630 ok
+2	11:36:01.664	five5 LTCUSD,M1: open #74500549 buy 1.00 LTCUSD at 45.12000 sl: 44.94000 tp: 45.31630 ok
+0	11:36:11.453	five5 LTCUSD,M1: uninit reason 3
+0	11:36:11.454	Gambit LTCUSD,M1: uninit reason 3
+0	11:36:11.454	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:36:11.454	1fractal LTCUSD,M1: uninit reason 3
+0	11:36:11.454	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	11:36:11.550	Gambit LTCUSD,M5: initialized
+0	11:36:11.550	Custom Moving Averages LTCUSD,M5: initialized
+0	11:36:11.550	1fractal LTCUSD,M5: initialized
+0	11:36:11.550	Custom Moving Averages LTCUSD,M5: initialized
+0	11:36:11.613	five5 LTCUSD,M5: initialized
+0	11:41:11.823	five5 LTCUSD,M5: uninit reason 1
+0	11:41:11.826	Expert five5 LTCUSD,M5: removed
+0	11:41:16.719	Expert five5 LTCUSD,M5: loaded successfully
+0	11:41:20.203	five5 LTCUSD,M5: initialized
+0	14:01:31.386	five5 LTCUSD,M5: uninit reason 3
+0	14:01:31.387	Gambit LTCUSD,M5: uninit reason 3
+0	14:01:31.387	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	14:01:31.387	1fractal LTCUSD,M5: uninit reason 3
+0	14:01:31.387	Custom Moving Averages LTCUSD,M5: uninit reason 3
+0	14:01:31.387	Gambit LTCUSD,M1: initialized
+0	14:01:31.387	Custom Moving Averages LTCUSD,M1: initialized
+0	14:01:31.387	1fractal LTCUSD,M1: initialized
+0	14:01:31.387	Custom Moving Averages LTCUSD,M1: initialized
+0	14:01:31.546	five5 LTCUSD,M1: initialized
+2	14:01:40.593	five5 LTCUSD,M1: open #74500573 buy 1.00 LTCUSD at 44.97000 sl: 44.74000 tp: 45.31676 ok
+2	14:02:15.463	five5 LTCUSD,M1: open #74500574 buy 1.00 LTCUSD at 45.00000 sl: 44.81000 tp: 45.27676 ok
+2	14:03:11.591	five5 LTCUSD,M1: open #74500577 buy 1.00 LTCUSD at 45.03000 sl: 44.78000 tp: 45.26676 ok
+2	14:04:11.515	five5 LTCUSD,M1: open #74500578 buy 1.00 LTCUSD at 45.05000 sl: 44.82000 tp: 45.23676 ok
+0	14:04:26.162	five5 LTCUSD,M1: uninit reason 3
+0	14:04:26.164	Gambit LTCUSD,M1: uninit reason 3
+0	14:04:26.164	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	14:04:26.164	1fractal LTCUSD,M1: uninit reason 3
+0	14:04:26.164	Custom Moving Averages LTCUSD,M1: uninit reason 3
+0	14:04:26.164	Gambit LTCUSD,M5: initialized
+0	14:04:26.164	Custom Moving Averages LTCUSD,M5: initialized
+0	14:04:26.164	1fractal LTCUSD,M5: initialized
+0	14:04:26.164	Custom Moving Averages LTCUSD,M5: initialized
+0	14:04:26.170	five5 LTCUSD,M5: initialized
+2	14:13:25.239	five5 LTCUSD,M5: open #74500585 sell 1.00 LTCUSD at 45.03000 sl: 45.09000 tp: 44.48224 ok
+0	14:18:59.071	1fractal USDJPY,M5: uninit reason 9
+0	14:18:59.071	Gambit USDJPY,M5: uninit reason 9
+0	14:18:59.071	Custom Moving Averages USDJPY,M5: uninit reason 9
+0	14:18:59.071	Custom Moving Averages EURUSD,M15: uninit reason 9
+0	14:18:59.071	Custom Moving Averages EURUSD,M15: uninit reason 9
+0	14:18:59.071	User_Indicator EURUSD,M15: uninit reason 9
+0	14:18:59.072	Gambit EURUSD,M15: uninit reason 9
+0	14:18:59.072	Gambit EURUSD,M5: uninit reason 9
+0	14:18:59.072	Custom Moving Averages EURUSD,M5: uninit reason 9
+0	14:18:59.072	Gambit GBPUSD,M5: uninit reason 9
+0	14:18:59.072	Custom Moving Averages GBPUSD,M5: uninit reason 9
+0	14:18:59.072	five5 LTCUSD,M5: uninit reason 9
+0	14:18:59.073	Gambit LTCUSD,M5: uninit reason 9
+0	14:18:59.073	Custom Moving Averages LTCUSD,M5: uninit reason 9
+0	14:18:59.073	1fractal LTCUSD,M5: uninit reason 9
+0	14:18:59.073	Custom Moving Averages LTCUSD,M5: uninit reason 9
+0	14:18:59.286	Custom indicator 1fractal USDJPY,M5: removed
+0	14:18:59.288	Custom indicator Gambit USDJPY,M5: removed
+0	14:18:59.290	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	14:18:59.294	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	14:18:59.297	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	14:18:59.299	Custom indicator User_Indicator EURUSD,M15: removed
+0	14:18:59.302	Custom indicator Gambit EURUSD,M15: removed
+0	14:18:59.348	Custom indicator Gambit EURUSD,M5: removed
+0	14:18:59.357	Custom indicator Custom Moving Averages EURUSD,M5: removed
+0	14:18:59.422	Custom indicator Gambit GBPUSD,M5: removed
+0	14:18:59.424	Custom indicator Custom Moving Averages GBPUSD,M5: removed
+0	14:18:59.460	Expert five5 LTCUSD,M5: removed
+0	14:18:59.463	Custom indicator Gambit LTCUSD,M5: removed
+0	14:18:59.465	Custom indicator Custom Moving Averages LTCUSD,M5: removed
+0	14:18:59.467	Custom indicator 1fractal LTCUSD,M5: removed
+0	14:18:59.468	Custom indicator Custom Moving Averages LTCUSD,M5: removed

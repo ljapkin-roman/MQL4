@@ -1,0 +1,110 @@
+0	15:19:18.690	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	15:19:18.701	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	15:19:18.712	Custom indicator User_Indicator USDJPY,M5: loaded successfully
+0	15:19:18.723	Custom indicator Stochastic USDJPY,M5: loaded successfully
+0	15:19:18.734	Expert Moving Average USDJPY,M5: loaded successfully
+0	15:19:18.734	Moving Average USDJPY,M5 inputs: Lots=0.1; MaximumRisk=0.02; DecreaseFactor=3.0; MovingPeriod=12; MovingShift=6; 
+0	15:19:18.871	Custom Moving Averages USDJPY,M5: initialized
+0	15:19:18.884	Custom Moving Averages USDJPY,M5: initialized
+0	15:19:18.898	User_Indicator USDJPY,M5: initialized
+0	15:19:18.912	Stochastic USDJPY,M5: initialized
+0	15:19:18.999	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	15:19:19.010	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	15:19:19.020	Custom indicator User_Indicator EURUSD,M15: loaded successfully
+0	15:19:19.031	Custom indicator Gambit EURUSD,M15: loaded successfully
+0	15:19:19.107	Custom Moving Averages EURUSD,M15: initialized
+0	15:19:19.120	Custom Moving Averages EURUSD,M15: initialized
+0	15:19:19.135	User_Indicator EURUSD,M15: initialized
+0	15:19:19.150	Gambit EURUSD,M15: initialized
+0	15:19:19.193	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	15:19:19.204	Custom indicator Custom Moving Averages EURUSD,M5: loaded successfully
+0	15:19:19.275	Gambit EURUSD,M5: initialized
+0	15:19:19.288	Custom Moving Averages EURUSD,M5: initialized
+0	15:19:19.356	Custom indicator Gambit GBPUSD,M5: loaded successfully
+0	15:19:19.367	Custom indicator Custom Moving Averages GBPUSD,M5: loaded successfully
+0	15:19:19.437	Gambit GBPUSD,M5: initialized
+0	15:19:19.450	Custom Moving Averages GBPUSD,M5: initialized
+0	15:19:22.796	Moving Average USDJPY,M5: initialized
+0	15:30:19.074	Moving Average USDJPY,M5: uninit reason 9
+0	15:30:19.074	Custom Moving Averages USDJPY,M5: uninit reason 9
+0	15:30:19.074	Custom Moving Averages USDJPY,M5: uninit reason 9
+0	15:30:19.074	User_Indicator USDJPY,M5: uninit reason 9
+0	15:30:19.074	Stochastic USDJPY,M5: uninit reason 9
+0	15:30:19.074	Custom Moving Averages EURUSD,M15: uninit reason 9
+0	15:30:19.074	Custom Moving Averages EURUSD,M15: uninit reason 9
+0	15:30:19.074	User_Indicator EURUSD,M15: uninit reason 9
+0	15:30:19.074	Gambit EURUSD,M15: uninit reason 9
+0	15:30:19.074	Gambit EURUSD,M5: uninit reason 9
+0	15:30:19.074	Custom Moving Averages EURUSD,M5: uninit reason 9
+0	15:30:19.074	Gambit GBPUSD,M5: uninit reason 9
+0	15:30:19.074	Custom Moving Averages GBPUSD,M5: uninit reason 9
+0	15:30:19.107	Expert Moving Average USDJPY,M5: removed
+0	15:30:19.110	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	15:30:19.112	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	15:30:19.114	Custom indicator User_Indicator USDJPY,M5: removed
+0	15:30:19.115	Custom indicator Stochastic USDJPY,M5: removed
+0	15:30:19.119	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	15:30:19.121	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	15:30:19.123	Custom indicator User_Indicator EURUSD,M15: removed
+0	15:30:19.124	Custom indicator Gambit EURUSD,M15: removed
+0	15:30:19.128	Custom indicator Gambit EURUSD,M5: removed
+0	15:30:19.130	Custom indicator Custom Moving Averages EURUSD,M5: removed
+0	15:30:19.135	Custom indicator Gambit GBPUSD,M5: removed
+0	15:30:19.137	Custom indicator Custom Moving Averages GBPUSD,M5: removed
+0	15:30:24.617	Compiling 'gaid'
+0	15:30:27.318	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	15:30:27.329	Custom indicator Custom Moving Averages USDJPY,M5: loaded successfully
+0	15:30:27.339	Custom indicator User_Indicator USDJPY,M5: loaded successfully
+0	15:30:27.350	Custom indicator Stochastic USDJPY,M5: loaded successfully
+0	15:30:27.361	Expert Moving Average USDJPY,M5: loaded successfully
+0	15:30:27.362	Moving Average USDJPY,M5 inputs: Lots=0.1; MaximumRisk=0.02; DecreaseFactor=3.0; MovingPeriod=12; MovingShift=6; 
+0	15:30:27.376	Custom Moving Averages USDJPY,M5: initialized
+0	15:30:27.389	Custom Moving Averages USDJPY,M5: initialized
+0	15:30:27.404	User_Indicator USDJPY,M5: initialized
+0	15:30:27.418	Stochastic USDJPY,M5: initialized
+0	15:30:27.458	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	15:30:27.470	Custom indicator Custom Moving Averages EURUSD,M15: loaded successfully
+0	15:30:27.481	Custom indicator User_Indicator EURUSD,M15: loaded successfully
+0	15:30:27.493	Custom indicator Gambit EURUSD,M15: loaded successfully
+0	15:30:27.508	Custom Moving Averages EURUSD,M15: initialized
+0	15:30:27.522	Custom Moving Averages EURUSD,M15: initialized
+0	15:30:27.536	User_Indicator EURUSD,M15: initialized
+0	15:30:27.552	Gambit EURUSD,M15: initialized
+0	15:30:27.593	Custom indicator Gambit EURUSD,M5: loaded successfully
+0	15:30:27.604	Custom indicator Custom Moving Averages EURUSD,M5: loaded successfully
+0	15:30:27.621	Gambit EURUSD,M5: initialized
+0	15:30:27.634	Custom Moving Averages EURUSD,M5: initialized
+0	15:30:27.692	Custom indicator Gambit GBPUSD,M5: loaded successfully
+0	15:30:27.703	Custom indicator Custom Moving Averages GBPUSD,M5: loaded successfully
+0	15:30:27.719	Gambit GBPUSD,M5: initialized
+0	15:30:27.732	Custom Moving Averages GBPUSD,M5: initialized
+0	15:30:30.033	Moving Average USDJPY,M5: initialized
+3	15:30:38.854	'gaid' is not script and cannot be executed
+3	16:47:21.481	'gaid' is not script and cannot be executed
+0	16:47:57.883	Moving Average USDJPY,M5: uninit reason 4
+0	16:47:57.883	Custom Moving Averages USDJPY,M5: uninit reason 4
+0	16:47:57.883	Custom Moving Averages USDJPY,M5: uninit reason 4
+0	16:47:57.883	User_Indicator USDJPY,M5: uninit reason 4
+0	16:47:57.883	Stochastic USDJPY,M5: uninit reason 4
+0	16:47:57.883	Custom Moving Averages EURUSD,M15: uninit reason 4
+0	16:47:57.883	Custom Moving Averages EURUSD,M15: uninit reason 4
+0	16:47:57.883	User_Indicator EURUSD,M15: uninit reason 4
+0	16:47:57.883	Gambit EURUSD,M15: uninit reason 4
+0	16:47:57.883	Gambit EURUSD,M5: uninit reason 4
+0	16:47:57.883	Custom Moving Averages EURUSD,M5: uninit reason 4
+0	16:47:57.883	Gambit GBPUSD,M5: uninit reason 4
+0	16:47:57.883	Custom Moving Averages GBPUSD,M5: uninit reason 4
+0	16:47:57.911	Expert Moving Average USDJPY,M5: removed
+0	16:47:57.913	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	16:47:57.916	Custom indicator Custom Moving Averages USDJPY,M5: removed
+0	16:47:57.917	Custom indicator User_Indicator USDJPY,M5: removed
+0	16:47:57.919	Custom indicator Stochastic USDJPY,M5: removed
+0	16:47:57.938	Custom indicator Gambit GBPUSD,M5: removed
+0	16:47:57.940	Custom indicator Custom Moving Averages GBPUSD,M5: removed
+0	16:47:57.958	Custom indicator Gambit EURUSD,M5: removed
+0	16:47:57.961	Custom indicator Custom Moving Averages EURUSD,M5: removed
+0	16:47:57.973	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	16:47:57.975	Custom indicator Custom Moving Averages EURUSD,M15: removed
+0	16:47:57.977	Custom indicator User_Indicator EURUSD,M15: removed
+0	16:47:57.979	Custom indicator Gambit EURUSD,M15: removed
+0	16:57:25.451	Compiling 'poligon'
